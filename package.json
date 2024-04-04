@@ -1,0 +1,26 @@
+{
+  "name": "find-minimum-maximum-number",
+  "version": "1.0.0",
+  "description": "An npm package to find min and max number from array",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123vvishwakarma/find-minimum-maximum-number.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "123vvishwakarma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/123vvishwakarma/find-minimum-maximum-number/issues"
+  },
+  "homepage": "https://github.com/123vvishwakarma/find-minimum-maximum-number#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
